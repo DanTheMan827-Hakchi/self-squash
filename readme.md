@@ -10,9 +10,9 @@ If you want to unpack the bundle script, you can run it with the `unpack` argume
 
 ## License
 
+All files included with the self-squash repository are bound to the following license.
+```
 Copyright 2020 DanTheMan827
-
-Files not included with this repository are not bound to this license.
 
 self-squash is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -26,3 +26,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with self-squash.  If not, see <https://www.gnu.org/licenses/>.
+```
