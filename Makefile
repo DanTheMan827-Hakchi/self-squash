@@ -1,3 +1,20 @@
+# Copyright 2020 DanTheMan827
+#
+# This file is part of self-squash.
+#
+# self-squash is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# self-squash is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with self-squash.  If not, see <https://www.gnu.org/licenses/>.
+
 # Change this to the name of the bundle, alpha-numeric, no spaces.
 BUNDLE_NAME := self-squash
 FS_FILES := $(shell find "squashfs-root" -type f)
